@@ -1,0 +1,3 @@
+opencensus-ext-logging
+opencensus-ext-azure
+python-dotenv
