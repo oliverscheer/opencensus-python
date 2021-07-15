@@ -23,7 +23,6 @@ from opencensus.tags import tag_map as tag_map_module
 CONNECTION_STRING = 'InstrumentationKey=' + config.INSTRUMENTATION_KEY
 print("Connection String: " + CONNECTION_STRING)
 
-
 def sample_logging():
     logger_name = "logging_sample"
     logger = logging.getLogger(logger_name)
